@@ -2,7 +2,8 @@
 
 This project implements a fixed pipeline renderer written in C++11 and is accerated by CUDA. It contains following parts:
 
-* Coordinate transformation (Object Coordinate -> World Coordinate -> Camera Coordinate -> Homogeneous Clipping Coordinate -> Projection Coordinate -> Viewport Coordinate
+* Coordinate Transformation (Object Coordinate -> World Coordinate -> Camera Coordinate ->
+* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homogeneous Clipping Coordinate -> Projection Coordinate -> Viewport Coordinate)
 * Blinn-Phong Lighting Model
 * Texture Mapping
 * Super Sampling Anti-Aliasing (SSAA)
