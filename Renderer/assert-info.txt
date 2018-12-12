@@ -1,0 +1,2 @@
+Assertion Failed!
+f:\renderer\renderer\win32utility.cpp(14): wndclass.hIcon

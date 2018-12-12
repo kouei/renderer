@@ -1,0 +1,2 @@
+Assertion Failed!
+message_handler.cpp(893): cursor

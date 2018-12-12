@@ -1,0 +1,155 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.3.0)
+
+newmtl Material__27
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm006_tex_7.png
+
+newmtl Material__31
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm006_tex_15.png
+
+newmtl Material__26
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm006_tex_5.png
+
+newmtl Material__28
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm006_tex_3.png
+
+newmtl Material__23
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm006_tex_17.png
+
+newmtl Material__29
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm006_tex_11.png
+
+newmtl Material__11
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm006_tex_9.png
+
+newmtl Material__30
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm006_tex_0.png
+
+newmtl Material__34
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm000_tex_5.png
+
+newmtl Material__8
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm000_tex_2.png
+
+newmtl Material__7
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm000_tex_5.png
+
+newmtl Material__33
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm006_tex_21.png
+
+newmtl Material__39
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm006_tex_23.png
+
+newmtl Material__17
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm006_tex_23.png
+
+newmtl Material__32
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm006_tex_19.png
+
+newmtl Material__19
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm006_tex_13.png
+
+newmtl Material__24
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm502_tex_4.png
+
+newmtl Material__20
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm502_tex_0.png
+
+newmtl Material__25
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.200000047683716
+illum 2
+map_Kd mikitm502_tex_8.png
+
