@@ -11,14 +11,14 @@ This project implements a fixed pipeline renderer written in C++11 and is accera
 ## Example
 
 ### Rotation
-![rotation](rotation.gif)
+![rotation](example/rotation.gif)
 
 ### Gaussian Blur
-![gaussian-blur](gaussian-blur.gif)
+![gaussian-blur](example/gaussian-blur.gif)
 
 ### Gray-scale
-![gray-scale](gray-scale.gif)
+![gray-scale](example/gray-scale.gif)
 
 ### SSAA
 #### Due to the low-quality GIF, the difference may be subtle, please watch carefully.
-![ssaa](ssaa.gif)
+![ssaa](example/ssaa.gif)
